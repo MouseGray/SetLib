@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/SetLib/CMakeFiles/SetLib.dir
+C:/Users/Admin/Documents/SetLib/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/SetLib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,98 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"path" : "CMakeFiles/3.19.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"path" : "CMakeFiles/3.19.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"path" : "CMakeFiles/3.19.0/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Qt/Tools/CMake_64/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Documents/SetLib",
+		"source" : "C:/Users/Admin/Documents/SetLib"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
